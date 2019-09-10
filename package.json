@@ -1,6 +1,6 @@
 {
   "name": "mui-tools",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "tools for mmode ui",
   "keywords": [
     "react",
@@ -55,7 +55,7 @@
     "gulp-typescript": "^3.1.6",
     "gulp-watch": "^4.3.10",
     "jsonml.js": "^0.1.0",
-    "less": "^3.10.3",
+    "less": "^2.7.2",
     "less-plugin-npm-import": "^2.1.0",
     "mark-twain": "^2.0.2",
     "merge2": "^1.2.0",
