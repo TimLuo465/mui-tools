@@ -1,6 +1,6 @@
 {
   "name": "mui-tools",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "tools for mmode ui",
   "keywords": [
     "react",
@@ -47,6 +47,7 @@
     "css-loader": "^0.28.7",
     "deep-assign": "^2.0.0",
     "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^4.2.0",
     "friendly-errors-webpack-plugin": "^1.6.1",
     "gh-pages": "^1.0.0",
     "gulp": "^3.9.1",
